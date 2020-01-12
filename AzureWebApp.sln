@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureWebTests", "AzureWebTests\AzureWebTests.csproj", "{9CCD545B-9DBA-4828-AE94-FD198ED054F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureWebCommon", "AzureWebCommon\AzureWebCommon.csproj", "{CAFD2F9E-97C7-4323-BDCA-9C25C851F857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureWebApp", "AzureWebApp\AzureWebApp.csproj", "{93085584-4A84-4042-87C6-253860952516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCD545B-9DBA-4828-AE94-FD198ED054F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCD545B-9DBA-4828-AE94-FD198ED054F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCD545B-9DBA-4828-AE94-FD198ED054F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCD545B-9DBA-4828-AE94-FD198ED054F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFD2F9E-97C7-4323-BDCA-9C25C851F857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFD2F9E-97C7-4323-BDCA-9C25C851F857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFD2F9E-97C7-4323-BDCA-9C25C851F857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFD2F9E-97C7-4323-BDCA-9C25C851F857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93085584-4A84-4042-87C6-253860952516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93085584-4A84-4042-87C6-253860952516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93085584-4A84-4042-87C6-253860952516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93085584-4A84-4042-87C6-253860952516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA4E94F-34E5-4DBC-A8F5-9D43D9EE1BBC}
+	EndGlobalSection
+EndGlobal
